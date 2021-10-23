@@ -7,6 +7,7 @@ I have been working with technologies since 2002 and as a Software Engineer sinc
 - I’m currently working on PHP, CodeIgniter, Laravel and Magento 2.
 - I’m currently learning IaC (Ansible, Terraform, Kafka, Docker and Kubernetes) | Javascript (React, Next.js, Quasar, Node.js)
 - I’m looking to collaborate on NFePHP, CodeIgniter, Magento Modules (Pagseguro, Mercado Pago, Paypal, Jadlog), and others PHP Open Source projects.
+- Pronouns: He / His
 - How to reach me: <br>
 
   <a href = "mailto:andreus.timm@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
