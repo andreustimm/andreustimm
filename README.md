@@ -1,6 +1,6 @@
 ### Hi there! My name is Andreus Timm, I'm PHP Senior Software Engineer
 
-I have been working with technologies since 2002 and as a Software Engineer since 2005. I have a large experience in Web Development and Mobile, DevOps, Infrastructure, Databases, Front-end, analysis, systems development, and agile project management with metrics and CI/CD. I'm a native Leader, proactive and communicative.
+I have been working with technologies since 2002 and as a Software Engineer since 2005. I have a large experience in Web Development and Mobile, DevOps, Infrastructure, Databases, Frontend, analysis of systems, and agile project management with metrics and CI/CD. I'm a native Leader, proactive and communicative.
 
 **Today**:
 
