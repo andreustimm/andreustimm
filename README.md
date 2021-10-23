@@ -1,13 +1,17 @@
 ### Hi there! My name is Andreus Timm, I'm PHP Senior Software Engineer
 
-I have been working with technologies since 2002 and as a Software Engineer since 2005. I have a large experience in Web Development and Mobile, DevOps, Infrastructure, Databases, Frontend, analysis of systems, and agile project management with metrics and CI/CD. I'm a native Leader, proactive and communicative.
+I have been working with technologies since 2002 and as a Software Engineer since 2005. I have a large experience in Web Development and Mobile, DevOps, Infrastructure, Databases, Frontend, Analysis of Systems, and agile project management with metrics and CI/CD. I'm a native Leader, proactive and communicative.
 
 **Today**:
 
 - I’m currently working on PHP, CodeIgniter, Laravel and Magento 2.
 - I’m currently learning IaC (Ansible, Terraform, Kafka, Docker and Kubernetes) | Javascript (React, Next.js, Quasar, Node.js)
 - I’m looking to collaborate on NFePHP, CodeIgniter, Magento Modules (Pagseguro, Mercado Pago, Paypal, Jadlog), and others PHP Open Source projects.
-- How to reach me: andreus.timm@gmail.com
+- How to reach me: <br>
+
+  <a href = "mailto:andreus.timm@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/andreus-timm" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+
 
 <div align="center">
   <a href="https://github.com/andreustimm">
@@ -35,12 +39,12 @@ I have been working with technologies since 2002 and as a Software Engineer sinc
   <img align="center" alt="SQL Server" title="SQL Server" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg">
   <img align="center" alt="Postgres" title="Postgres" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg">
   <img align="center" alt="MongoDB" title="MongoDB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg">
+  <img align="center" alt="VIM" title="VIM" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg">
 </div>
 
 ![Snake animation](https://github.com/andreustimm/andreustimm/blob/output/github-contribution-grid-snake.svg)
 
 ----
 
- - **Linkedin**: https://bit.ly/andreus-linkedin
  - **Imasters**: https://bit.ly/andreus-imasters
  - **School Of Net**: https://bit.ly/andreus-son
