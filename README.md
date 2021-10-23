@@ -5,7 +5,7 @@ I have been working with technologies since 2002 and as a Software Engineer sinc
 **Today**:
 
 - I’m currently working on PHP, CodeIgniter, Laravel and Magento 2.
-- I’m currently learning IaC (Ansible, Terraform, Kafka, Docker and Kubernetes) | Javascript (React, Next.js, Quasar, Node.js)
+- I’m currently learning IaC (Ansible, Terraform, Kafka, Docker and Kubernetes) | Javascript (React, Next.js, TypeScript, Quasar, Node.js)
 - I’m looking to collaborate on NFePHP, CodeIgniter, Magento Modules (Pagseguro, Mercado Pago, Paypal, Jadlog), and others PHP Open Source projects.
 - Pronouns: He / His
 - How to reach me: <br>
@@ -26,9 +26,9 @@ I have been working with technologies since 2002 and as a Software Engineer sinc
   <img align="center" alt="Codeigniter" title="Codeigniter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain.svg">
   <img align="center" alt="Laravel" title="Laravel" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg">
   <img align="center" alt="Magento" title="Magento" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/magento/magento-original.svg">
-  <img align="center" alt="Javascript" title="Javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" title="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" title="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Javascript" title="Javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="TypeScript" title="TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="React" title="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Vue" title="Vue" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
