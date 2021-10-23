@@ -16,6 +16,8 @@ I have been working with technologies since 2002 and as a Software Engineer sinc
   </a>
 </div>
 
+![Snake animation](https://github.com/andreustimm/andreustimm/blob/output/github-contribution-grid-snake.svg)
+
 ----
 
  - **Linkedin**: https://bit.ly/andreus-linkedin
