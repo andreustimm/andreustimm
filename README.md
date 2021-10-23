@@ -46,5 +46,7 @@ I have been working with technologies since 2002 and as a Software Engineer sinc
 
 ----
 
+### Links:
+
  - **Imasters**: https://bit.ly/andreus-imasters
  - **School Of Net**: https://bit.ly/andreus-son
