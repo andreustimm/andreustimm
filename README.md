@@ -1,13 +1,13 @@
 ### Hi there! My name is Andreus Timm, I'm PHP Senior Software Engineer
 
-I have been working with technologies since 2002 and as a Software Engineer since 2005. I have a large experience in Web Development and Mobile, DevOps, Infrastructure, Databases, Frontend, Analysis of Systems, and agile project management with metrics and CI/CD. I'm a native Leader, proactive and communicative.
+I have been working with technologies for 20 years and as a Developer for 16 years. I have a large experience in Web Development and Mobile, DevOps, Infrastructure, Databases, Fullstack, Analysis of Systems, and agile project management with observability and CI/CD. I’m a native Leader, proactive and communicative.
 
 **Today**:
 
-- I’m currently working on PHP, CodeIgniter, Laravel and Magento 2.
-- I’m currently learning IaC (Ansible, Terraform, Kafka, Docker and Kubernetes) | Javascript (React, Next.js, TypeScript, Quasar, Node.js)
+- I’m currently working on React, Vue.js, Node, PHP, CodeIgniter, Laravel and Magento 2.
+- I’m currently learning IaC (Terraform, Kafka and Kubernetes) | Javascript (Next.js, TypeScript, Quasar, Cypress and Jest)
 - I’m looking to collaborate on NFePHP, CodeIgniter, Magento Modules (Pagseguro, Mercado Pago, Paypal, Jadlog), and others PHP Open Source projects.
-- Pronouns: He / His
+- Pronouns: He / Him / His
 - How to reach me: <br>
 
   <a href = "mailto:andreus.timm@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
