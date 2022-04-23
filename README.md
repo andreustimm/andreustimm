@@ -2,13 +2,24 @@
 
 I have been working with technologies for 20 years and as a Developer for 16 years. I have a large experience in Web Development and Mobile, DevOps, Infrastructure, Databases, Fullstack, Analysis of Systems, and agile project management with observability and CI/CD. I’m a native Leader, proactive and communicative.
 
+
+**Education:**
+- **Postgrad** - _[PUC MINAS, Information Technology Infrastructure], 2022_
+- **College-Bachelor** - _[Univem, Information Technology Management], 2020_
+- **Technical Course** - _[São Luiz College, Computer Technician], 2003 - 2005_
+
+**Languages**
+- English - Advanced / Fluent
+- Spanish - Intermediate
+- Portuguese - Native
+
 **Today**:
 
-- I’m currently working on React, Vue.js, Node, PHP, CodeIgniter, Laravel and Magento 2.
-- I’m currently learning IaC (Terraform, Kafka and Kubernetes) | Javascript (Next.js, TypeScript, Quasar, Cypress and Jest)
-- I’m looking to collaborate on NFePHP, CodeIgniter, Magento Modules (Pagseguro, Mercado Pago, Paypal, Jadlog), and others PHP Open Source projects.
-- Pronouns: He / Him / His
-- How to reach me: <br>
+- **I’m currently working on** React, Vue.js, Node, PHP, CodeIgniter, Laravel and Magento 2.
+- **I’m currently learning IaC** (Terraform, Kafka and Kubernetes) | **Javascript** (Next.js, TypeScript, Quasar, Cypress and Jest)
+- **I’m looking to collaborate on** NFePHP, CodeIgniter, Magento Modules (Pagseguro, Mercado Pago, Paypal, Jadlog), and others PHP Open Source projects.
+- **Pronouns**: He / Him / His
+- **How to reach me**: <br>
 
   <a href = "mailto:andreus.timm@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
   <a href="https://www.linkedin.com/in/andreus-timm" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
