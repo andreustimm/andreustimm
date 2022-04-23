@@ -10,7 +10,7 @@ I have been working with technologies for 20 years and as a Developer for 16 yea
 
 **Languages**
 - English - Advanced / Fluent
-- Spanish - Intermediate
+- Spanish - Basic
 - Portuguese - Native
 
 **Today**:
