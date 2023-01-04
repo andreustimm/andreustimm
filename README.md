@@ -1,10 +1,11 @@
-### Hi there! My name is Andreus Timm, I'm PHP Senior Software Engineer
+### Hi there! My name is Andreus Timm, I am a PHP/Javascript Senior Software Engineer
 
-I have been working with technologies for 20 years and as a Developer for 16 years. I have a large experience in Web Development and Mobile, DevOps, Infrastructure, Databases, Fullstack, Analysis of Systems, and agile project management with observability and CI/CD. I’m a native Leader, proactive and communicative.
+I have been working with technologies for 20 years and as a Developer for 16 years. I have a large experience in Web Development and Mobile, DevOps, Infrastructure, Databases, Fullstack, Full Cycle, Analysis of Systems, and agile project management with observability and CI/CD. I have collaborated on projects like NFePHP, CodeIgniter, Adobe Magento, Magento Modules (Pagseguro, Mercado Pago, Paypal, Jadlog), and other PHP Open Source projects. I’m a native Leader, proactive and communicative.
 
 
 **Education:**
 - **Postgrad** - _[PUC MINAS, Information Technology Infrastructure], 2022_
+- **Postgrad** - _[IGTI / XPE, MBA in Fullstack Development], 2022_
 - **College-Bachelor** - _[Univem, Information Technology Management], 2020_
 - **Technical Course** - _[São Luiz College, Computer Technician], 2003 - 2005_
 
