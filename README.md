@@ -72,12 +72,20 @@ I have been working with technology for 20 years and as a Developer for 17 years
 #### **Statistics**
 <div align="center">
   <div>
-    <img height="195em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=andreustimm&theme=dracula" />
+    <a href="https://github.com/andreustimm">
+      <img height="195em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=andreustimm&theme=dracula" />
+    </a>
   </div>
 
-  ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=andreustimm&theme=dracula)
-  ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=andreustimm&theme=dracula)
-  ![](https://github-readme-streak-stats.herokuapp.com?user=andreustimm&theme=dracula&hide_border=true&border_radius=0&card_width=682)
+  <a href="https://github.com/andreustimm">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=andreustimm&theme=dracula" />
+  </a>
+  <a href="https://github.com/andreustimm">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=andreustimm&theme=dracula" />
+  </a>
+  <a href="https://github.com/andreustimm">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=andreustimm&theme=dracula&hide_border=true&border_radius=0&card_width=682" />
+  </a>
 </div>
 
 <div style="display: inline_block"><br>
