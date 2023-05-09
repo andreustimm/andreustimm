@@ -56,6 +56,7 @@ I have been working with technology for 20 years and as a Developer for 17 years
 - Vue since 2019
 - Kubernetes since 2019
 - Next.js since 2020
+- GraphQL since 2020
 - Cypress since 2021
 - Jest since 2021
 - Meteor Framework since 2022
