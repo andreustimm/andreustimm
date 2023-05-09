@@ -3,6 +3,18 @@
 I have been working with technology for 20 years and as a Developer for 17 years. I have a large experience in Web Development and Mobile, DevOps, Infrastructure, Databases, Fullstack, Full Cycle, Analysis of Systems, and agile project management with observability and CI/CD. I have collaborated on projects like NFePHP, CodeIgniter, Adobe Magento, Magento Modules _(Pagseguro, Mercado Pago, Paypal, Jadlog)_, and other PHP Open Source projects. I’m a native Leader, proactive and communicative.
 
 
+**Currently**:
+
+- **I’m currently working on** React, Vue.js, NodeJS, PHP, CodeIgniter, Laravel and Magento 2.
+- **I’m currently studing** (Golang, Next.js, and Software Architecture)
+- **I’m looking to collaborate on** NFePHP, CodeIgniter, Magento Modules (Pagseguro, Mercado Pago, Paypal, Jadlog), and others PHP Open Source projects.
+- **Pronouns**: He / Him / His
+- **How to reach me**: <br>
+
+  <a href = "mailto:andreus.timm@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/andreus-timm" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+
+
 **Education:**
 - **Postgrad** - _[PUC MINAS, Information Technology Infrastructure], 2022_
 - **Postgrad** - _[IGTI / XPE, MBA in Fullstack Development], 2022_
@@ -16,19 +28,21 @@ I have been working with technology for 20 years and as a Developer for 17 years
 
 **Main Technologies**
 
-- HTML since 2003
+- HTML / CSS since 2003
+- Pascal since 2004
 - **PHP** since 2005
 - MySQL since 2005
 - Oracle since 2006
 - Ajax since 2006
 - **Java** since 2007
 - CodeIgniter since 2008
-- PHPUnit since 2008
+- PHPUnit since 2009
 - Postgres since 2010
 - PERL since 2010
 - GIT since 2011
 - AWS since 2011
 - **Node.js** since 2011
+- Bootstrap since 2012
 - SQL Server since 2013
 - Vagrant since 2014
 - **Laravel** since 2015
@@ -44,19 +58,8 @@ I have been working with technology for 20 years and as a Developer for 17 years
 - Next.js since 2020
 - Cypress since 2021
 - Jest since 2021
+- Meteor Framework since 2022
 - Golang since 2023
-
-**Today**:
-
-- **I’m currently working on** React, Vue.js, Node, PHP, CodeIgniter, Laravel and Magento 2.
-- **I’m currently learning IaC** (Terraform, Kafka and Kubernetes) | **Javascript** (Next.js, TypeScript, Quasar, Cypress and Jest)
-- **I’m looking to collaborate on** NFePHP, CodeIgniter, Magento Modules (Pagseguro, Mercado Pago, Paypal, Jadlog), and others PHP Open Source projects.
-- **Pronouns**: He / Him / His
-- **How to reach me**: <br>
-
-  <a href = "mailto:andreus.timm@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/andreus-timm" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-
 
 <div align="center">
   <a href="https://github.com/andreustimm">
