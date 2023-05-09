@@ -18,18 +18,25 @@ I have been working with technology for 20 years and as a Developer for 17 years
 
 - HTML since 2003
 - **PHP** since 2005
+- MySQL since 2005
+- Oracle since 2006
 - Ajax since 2006
 - **Java** since 2007
 - CodeIgniter since 2008
+- PHPUnit since 2008
+- Postgres since 2010
+- PERL since 2010
 - GIT since 2011
 - AWS since 2011
 - **Node.js** since 2011
+- SQL Server since 2013
 - Vagrant since 2014
 - **Laravel** since 2015
 - Angular since 2016
 - Typescript since 2016
 - **Magento** since 2016
 - **Python** since 2016
+- MongoDB since 2017
 - Docker since 2018
 - React since 2018
 - Vue since 2019
