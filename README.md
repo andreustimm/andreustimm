@@ -67,6 +67,13 @@ I have been working with technology for 20 years and as a Developer for 17 years
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andreustimm&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreustimm&layout=compact&langs_count=7&theme=dracula"/>
   </a>
+  <div>
+    <img height="195em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=andreustimm&theme=algolia" />
+  </div>
+
+  ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=andreustimm&theme=algolia)
+  ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=andreustimm&theme=algolia)
+  ![](https://github-readme-streak-stats.herokuapp.com?user=andreustimm&theme=algolia&hide_border=true&border_radius=0&card_width=682)
 </div>
 
 <div style="display: inline_block"><br>
