@@ -1,10 +1,16 @@
-### Hi there! My name is Andreus Timm, I am a PHP/Javascript Senior Software Engineer
+### Hi there! My name is Andreus Timm, I am a PHP and Javascript Senior Software Engineer
 
 I have been working with technology for 20 years and as a Developer for 17 years. I have a large experience in Web Development and Mobile, DevOps, Infrastructure, Databases, Fullstack, Full Cycle, Analysis of Systems, and agile project management with observability and CI/CD. I have collaborated on projects like NFePHP, CodeIgniter, Adobe Magento, Magento Modules _(Pagseguro, Mercado Pago, Paypal, Jadlog)_, and other PHP Open Source projects. I’m a native Leader, proactive and communicative.
 
+<div align="center">
+  <a href="https://github.com/andreustimm">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andreustimm&show_icons=true&theme=dracula&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreustimm&layout=compact&langs_count=6&theme=dracula"/>
+  </a>
+</div>
 
-**Currently**:
 
+#### **Currently**:
 - **I’m currently working on** React, Vue.js, NodeJS, PHP, CodeIgniter, Laravel and Magento 2.
 - **I’m currently studing** (Golang, Next.js, and Software Architecture)
 - **I’m looking to collaborate on** NFePHP, CodeIgniter, Magento Modules (Pagseguro, Mercado Pago, Paypal, Jadlog), and others PHP Open Source projects.
@@ -15,19 +21,20 @@ I have been working with technology for 20 years and as a Developer for 17 years
   <a href="https://www.linkedin.com/in/andreus-timm" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
 
-**Education:**
+#### **Education:**
 - **Postgrad** - _[PUC MINAS, Information Technology Infrastructure], 2022_
 - **Postgrad** - _[IGTI / XPE, MBA in Fullstack Development], 2022_
 - **College-Bachelor** - _[Univem, Information Technology Management], 2020_
 - **Technical Course** - _[São Luiz College, Computer Technician], 2004 - 2006_
 
-**Languages**
+
+#### **Languages**
 - English - Advanced / Fluent
 - Spanish - Basic
 - Portuguese - Native
 
-**Main Technologies**
 
+#### **Main Technologies**
 - HTML / CSS since 2003
 - Pascal since 2004
 - **PHP** since 2005
@@ -62,11 +69,8 @@ I have been working with technology for 20 years and as a Developer for 17 years
 - Meteor Framework since 2022
 - Golang since 2023
 
+#### **Statistics**
 <div align="center">
-  <a href="https://github.com/andreustimm">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andreustimm&show_icons=true&theme=dracula&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreustimm&layout=compact&langs_count=6&theme=dracula"/>
-  </a>
   <div>
     <img height="195em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=andreustimm&theme=dracula" />
   </div>
