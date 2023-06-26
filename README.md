@@ -2,7 +2,7 @@
 
 ### Hi there, welcome to my profile! 👋
 
-My name is Andreus Timm and I am from Brazil (🇧🇷). I have been working with technology for 20 years and as a Developer for 17 years. I have a large experience in Web Development and Mobile, DevOps, Infrastructure, Databases, Fullstack Development, Full Cycle Development, Analysis of Systems, and agile project management with observability and CI/CD. I have collaborated on projects like NFePHP, CodeIgniter, Adobe Magento, Magento Modules _(Pagseguro, Mercado Pago, Paypal, Jadlog)_, and other PHP Open Source projects.
+My name is Andreus Timm and I am from Brazil (🇧🇷). I have been working with technology for 20 years and as a Developer for 17 years. I have a large experience in Web Development and Mobile, DevOps, Infrastructure, Databases, Fullstack Development, Full Cycle Development, Analysis of Systems, and agile project management with observability and CI/CD. I graduated in Information Technology Management and I have two post-graduations. The first post-graduation is in Information Technology Infrastructure and the last one is an MBA in Fullstack Development. I have collaborated on projects like NFePHP, CodeIgniter, Adobe Magento, Magento Modules _(Pagseguro, Mercado Pago, Paypal, Jadlog)_, and other PHP Open Source projects.
 
 In my free time, I like to practice Brazilian Jiu Jitsu and Judo (🥋), play video games (🎮), watch movies (🎞️) and series (📺), read books (📚), to listen music (🎵) and participate in open source projects (:octocat:).
 
