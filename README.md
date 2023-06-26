@@ -18,8 +18,8 @@ In my free time, I like to practice Brazilian Jiu Jitsu and Judo (🥋), play vi
 
 #### **Currently:**
 - **I’m currently working on** React, Vue.js, Node.js, Javascript, TypeScript, PHP, CodeIgniter, Laravel and Magento 2.
-- **I’m currently studing** (Golang, Next.js, and Software Architecture)
-- **I’m looking to collaborate on** NFePHP, CodeIgniter, Magento Modules (Pagseguro, Mercado Pago, Paypal, Jadlog), and others PHP Open Source projects.
+- **I’m currently studying** (Elixir, Golang, Next.js, and Software Architecture)
+- **I’m looking to collaborate on** NFePHP, CodeIgniter, Magento Modules (Pagseguro, Mercado Pago, Paypal, Jadlog), and other PHP Open Source projects.
 - **Pronouns**: He / Him / His
 - **How to reach me**: <br>
 
