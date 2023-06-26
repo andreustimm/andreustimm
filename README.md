@@ -98,6 +98,7 @@ In my free time, I like to practice Brazilian Jiu Jitsu and Judo (🥋), play vi
 - Jest since 2021
 - Meteor Framework since 2022
 - Golang since 2023
+- Elixir since 2023
 
 #### **Statistics:**
 <div align="center">
