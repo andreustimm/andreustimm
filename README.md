@@ -92,6 +92,7 @@ In my free time, I like to practice Brazilian Jiu Jitsu and Judo (🥋), play vi
 - React since 2018
 - Vue since 2019
 - Kubernetes since 2019
+- Ansible since 2020
 - Next.js since 2020
 - GraphQL since 2020
 - Cypress since 2021
