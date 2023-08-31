@@ -96,6 +96,7 @@ In my free time, I like to practice Brazilian Jiu Jitsu and Judo (🥋), play vi
 - GraphQL since 2020
 - Cypress since 2021
 - Jest since 2021
+- Terraform since 2021
 - Meteor Framework since 2022
 - Golang since 2023
 - Elixir since 2023
