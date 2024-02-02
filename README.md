@@ -4,7 +4,7 @@
 
 My name is Andreus Timm and I am from Brazil (🇧🇷). I have been working with technology for **20 years** and as a Developer for **18 years**. I have a large experience in Web Development and Mobile, DevOps, Infrastructure, Databases, Fullstack Development, Full Cycle Development, Analysis of Systems, and agile project management with Observability, Infrastructure as Code and CI/CD. I graduated in Information Technology Management and I have two post-graduations. The first post-graduation is in Information Technology Infrastructure and the last one is an MBA in Fullstack Development. I have collaborated on projects like NFePHP, CodeIgniter, Adobe Magento, Magento Modules _(Pagseguro, Mercado Pago, Paypal, Jadlog)_, and other PHP Open Source projects.
 
-In my free time, I like to practice Brazilian Jiu Jitsu and Judo (🥋), play video games (🎮), watch movies (🎞️) and series (📺), read books (📚), to listen music (🎵) and participate in open source projects (:octocat:).
+In my free time, I like to practice Brazilian Jiu Jitsu and Judo (🥋), play video games (🎮), watch movies (🎞️) and series (📺), read books (📚), to listen music (🎵) and participate in open source projects.
 
 <br>
 
@@ -21,10 +21,7 @@ In my free time, I like to practice Brazilian Jiu Jitsu and Judo (🥋), play vi
 - **I’m currently studying** (Elixir, Golang, Next.js, and Software Architecture)
 - **I’m looking to collaborate on** NFePHP, CodeIgniter, Magento Modules (Pagseguro, Mercado Pago, Paypal, Jadlog), and other PHP Open Source projects.
 - **Pronouns**: He / Him / His
-- **How to reach me**: <br>
-
-  <a href = "mailto:andreus.timm@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/andreus-timm" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+- **How to reach me**: [Linktr.ee](https://linktr.ee/andreustimm)
 
 
 #### **Education:**
@@ -123,10 +120,3 @@ In my free time, I like to practice Brazilian Jiu Jitsu and Judo (🥋), play vi
 
 
 ![Snake animation](https://github.com/andreustimm/andreustimm/blob/output/github-contribution-grid-snake.svg)
-
-----
-
-### Links:
-
- - **Imasters**: https://bit.ly/andreus-imasters
- - **School Of Net**: https://bit.ly/andreus-son
