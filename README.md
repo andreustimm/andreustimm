@@ -18,15 +18,16 @@ In my free time, I like to practice Brazilian Jiu Jitsu and Judo (🥋), play vi
 
 #### **Currently:**
 - **I’m currently working on** Python, React, Vue, Node.js, Javascript, TypeScript, PHP, CodeIgniter, Laravel, and Magento 2.
-- **I’m currently studying** Machine Learning, Deep Learning, Statistics, and Artificial Intelligence
-- **I’m looking to collaborate on** NFePHP, CodeIgniter, Magento Modules (Pagseguro, Mercado Pago, Paypal, Jadlog), and other PHP Open Source projects.
+- **I’m currently studying** Machine Learning, Deep Learning, Statistics, and Artificial Intelligence.
+- **I’m looking to collaborate on** NFePHP, CodeIgniter, Magento Modules (Pagseguro, Mercado Pago, Paypal, Jadlog), and other PHP Open-source projects.
 - **Pronouns**: He / Him / His
 - **How to reach me**: [Linktr.ee](https://linktr.ee/andreustimm)
 
 
 #### **Education:**
+- **Postgrad** - _[PUC MINAS, AI and Machine Learning], 2024-2025 (in progress)_
+- **Postgrad** - _[IGTI / XPE, MBA in Fullstack Development], 2023_
 - **Postgrad** - _[PUC MINAS, Information Technology Infrastructure], 2022_
-- **Postgrad** - _[IGTI / XPE, MBA in Fullstack Development], 2022_
 - **College-Bachelor** - _[Univem, Information Technology Management], 2020_
 - **Technical Course** - _[São Luiz College, Computer Technician], 2004 - 2006_
 
