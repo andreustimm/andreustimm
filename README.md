@@ -92,6 +92,7 @@ In my free time, I like to practice Brazilian Jiu Jitsu and Judo (🥋), play vi
 - Kubernetes since 2019
 - Ansible since 2020
 - Next.js since 2020
+- Nest.js since 2020
 - GraphQL since 2020
 - Cypress since 2021
 - Jest since 2021
@@ -100,6 +101,7 @@ In my free time, I like to practice Brazilian Jiu Jitsu and Judo (🥋), play vi
 - Golang since 2023
 - Elixir since 2023
 - Pandas since 2024
+- PlayWright since 2025
 
 #### **Statistics:**
 <div align="center">
