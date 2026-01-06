@@ -2,22 +2,13 @@
 
 ### Hi there, welcome to my profile! 👋
 
-My name is Andreus Timm and I am from Brazil (🇧🇷). I have been working with technology for **22 years** and as a Developer for **18 years**. I have a lot of experience in Web Development and Mobile, DevOps, Infrastructure, Databases, Fullstack Development, Full Cycle Development, Analysis of Systems, and Agile Project Management with Observability, Infrastructure as Code, and CI/CD. I graduated in Information Technology Management and I have two post-graduations. The first post-graduation is in Information Technology Infrastructure and the last one is an MBA in Fullstack Development. I have collaborated on projects like NFePHP, CodeIgniter, Adobe Magento, Magento Modules _(Pagseguro, Mercado Pago, Paypal, Jadlog)_, and other PHP Open Source projects.
+My name is Andreus Timm, and I am from Brazil (🇧🇷). I am a Senior Software Engineer and Software Architect with 20+ years of experience designing, scaling, and modernizing SaaS, enterprise platforms, and cloud-native systems for USA and global companies. Proven track record delivering high-impact backend, platform, and DevOps solutions across fintech, gaming, ERP, e-commerce, solar, and healthcare segments. Specialized in legacy system modernization, cloud architecture, CI/CD automation, and high-availability distributed systems.
 
-In my free time, I like to practice Brazilian Jiu Jitsu and Judo (🥋), play video games (🎮), watch movies (🎞️) and series (📺), read books (📚), to listen music (🎵) and participate in open source projects.
-
-<br>
-
-<div align="center">
-  <a href="https://github.com/andreustimm">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andreustimm&show_icons=true&theme=dracula&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreustimm&layout=compact&langs_count=6&theme=dracula"/>
-  </a>
-</div>
+In my free time, I teach Brazilian Jiu Jitsu (🥋), play video games (🎮), watch movies (🎞️) and series (📺), read books (📚), listen to music (🎵), and participate in open source projects.
 
 
 #### **Currently:**
-- **I’m currently working on** Python, React, Vue, Node.js, Javascript, TypeScript, PHP, CodeIgniter, Laravel, and Magento 2.
+- **I’m currently working on** Python, React, Vue, Node.js, JavaScript, TypeScript, PHP, CodeIgniter, Laravel, and Magento 2.
 - **I’m currently studying** Machine Learning, Deep Learning, Statistics, and Artificial Intelligence.
 - **I’m looking to collaborate on** NFePHP, CodeIgniter, Magento Modules (Pagseguro, Mercado Pago, Paypal, Jadlog), and other PHP Open-source projects.
 - **Pronouns**: He / Him / His
@@ -31,6 +22,10 @@ In my free time, I like to practice Brazilian Jiu Jitsu and Judo (🥋), play vi
 - **College-Bachelor** - _[Univem, Information Technology Management], 2020_
 - **Technical Course** - _[São Luiz College, Computer Technician], 2004 - 2006_
 
+#### **Core Expertise:**
+- Backend & Platform Engineering • Cloud Architecture (AWS, GCP, and Azure) • Legacy System Modernization
+- CI/CD & DevOps Automation • High-scale SaaS Systems • Microservices & APIs • Full Stack Developer
+- Databases (SQL & NoSQL) • Real-time Systems • QA Automation • IT Mentor • Desktop Developer
 
 #### **Languages:**
 - English - Fluent (C1)
