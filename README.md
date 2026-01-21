@@ -2,7 +2,7 @@
 
 ### Hi there, welcome to my profile! 👋
 
-My name is Andreus Timm, and I am from Brazil (🇧🇷). I am a Senior Software Engineer and Software Architect with 20+ years of experience designing, scaling, and modernizing SaaS, enterprise platforms, and cloud-native systems for USA and global companies. Proven track record delivering high-impact backend, platform, and DevOps solutions across fintech, gaming, ERP, e-commerce, solar, and healthcare segments. Specialized in legacy system modernization, cloud architecture, CI/CD automation, and high-availability distributed systems.
+My name is Andreus Timm, and I am from Brazil (🇧🇷). I am a Senior Software Engineer and Software Architect with over 20 years of experience designing, scaling, and modernizing SaaS, enterprise platforms, and cloud-native systems for US and global companies. Proven track record delivering high-impact backend, platform, and DevOps solutions across fintech, gaming, ERP, e-commerce, solar, and healthcare segments. Specialized in legacy system modernization, cloud architecture, CI/CD automation, and high-availability distributed systems.
 
 In my free time, I teach Brazilian Jiu Jitsu (🥋), play video games (🎮), watch movies (🎞️) and series (📺), read books (📚), listen to music (🎵), and participate in open source projects.
 
@@ -16,7 +16,7 @@ In my free time, I teach Brazilian Jiu Jitsu (🥋), play video games (🎮), wa
 
 
 #### **Education:**
-- **Postgrad** - _[PUC MINAS, AI and Machine Learning], 2024-2025 (in progress)_
+- **Postgrad** - _[PUC MINAS, AI and Machine Learning], 2024-2025_
 - **Postgrad** - _[IGTI / XPE, MBA in Fullstack Development], 2023_
 - **Postgrad** - _[PUC MINAS, Information Technology Infrastructure], 2022_
 - **College-Bachelor** - _[Univem, Information Technology Management], 2020_
@@ -63,7 +63,7 @@ In my free time, I teach Brazilian Jiu Jitsu (🥋), play video games (🎮), wa
 - **PHP** since 2005
 - MySQL since 2005
 - Oracle since 2006
-- Ajax since 2006
+- JavaScript since 2006
 - **Java** since 2007
 - CodeIgniter since 2008
 - PHPUnit since 2009
@@ -81,6 +81,7 @@ In my free time, I teach Brazilian Jiu Jitsu (🥋), play video games (🎮), wa
 - **Magento** since 2016
 - **Python** since 2016
 - MongoDB since 2017
+- Django since 2018
 - Docker since 2018
 - React since 2018
 - Vue since 2019
@@ -92,11 +93,12 @@ In my free time, I teach Brazilian Jiu Jitsu (🥋), play video games (🎮), wa
 - Cypress since 2021
 - Jest since 2021
 - Terraform since 2021
+- FastAPI since 2022
 - Meteor Framework since 2022
 - Golang since 2023
 - Elixir since 2023
 - Pandas since 2024
-- PlayWright since 2025
+- Playwright since 2025
 
 #### **Statistics:**
 <div align="center">
