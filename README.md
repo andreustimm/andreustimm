@@ -28,7 +28,7 @@ In my free time, I teach Brazilian Jiu Jitsu (🥋), play video games (🎮), wa
 - Databases (SQL & NoSQL) • Real-time Systems • QA Automation • IT Mentor • Desktop Developer
 
 #### **Languages:**
-- English - Fluent (C1)
+- English - Fluent (C1+)
 - Spanish - Basic (A2-B1)
 - Portuguese - Native
 
