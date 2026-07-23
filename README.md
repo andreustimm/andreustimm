@@ -80,7 +80,7 @@ In my free time, I teach Brazilian Jiu Jitsu (🥋), play video games (🎮), wa
 - Angular since 2016
 - **Typescript** since 2016
 - **Python** since 2016
-- - Magento since 2016
+- Magento since 2016
 - MongoDB since 2017
 - Django since 2018
 - Docker since 2018
