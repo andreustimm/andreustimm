@@ -2,15 +2,15 @@
 
 ### Hi there, welcome to my profile! 👋
 
-My name is Andreus Timm, and I am from Brazil (🇧🇷). I am a Senior Software Engineer and Software Architect with over 20 years of experience designing, scaling, and modernizing SaaS, enterprise platforms, and cloud-native systems for US and global companies. Proven track record delivering high-impact backend, platform, and DevOps solutions across fintech, gaming, ERP, e-commerce, solar, and healthcare segments. Specialized in legacy system modernization, cloud architecture, CI/CD automation, and high-availability distributed systems.
+My name is Andreus Timm, and I am from Brazil (🇧🇷). I am a **Senior AI Software Architect** & Software Engineer with over 20 years of experience designing, scaling, and modernizing SaaS, enterprise platforms, and AI-native cloud systems for US and global companies. Currently architecting **LLM-powered platforms** — multi-agent orchestration, RAG, and Spec-Driven Development (SDD). Proven track record delivering high-impact backend, platform, AI, and DevOps solutions across fintech, gaming, ERP, e-commerce, solar, and healthcare segments. Specialized in legacy system modernization, cloud architecture, CI/CD automation, and high-availability distributed systems.
 
 In my free time, I teach Brazilian Jiu Jitsu (🥋), play video games (🎮), watch movies (🎞️) and series (📺), read books (📚), listen to music (🎵), and participate in open source projects.
 
 
 #### **Currently:**
-- **I’m currently working on** Python, React, Vue, Node.js, JavaScript, TypeScript, PHP, CodeIgniter, Laravel, and Magento 2.
-- **I’m currently studying** Machine Learning, Deep Learning, Statistics, and Artificial Intelligence.
-- **I’m looking to collaborate on** NFePHP, CodeIgniter, Magento Modules (Pagseguro, Mercado Pago, Paypal, Jadlog), and other PHP Open-source projects.
+- **I’m currently working on** LLMs & AI agents (multi-agent orchestration, RAG), Python, TypeScript, FastAPI, Next.js, React, Vue, Node.js, Kotlin, PHP, and Laravel.
+- **I’m currently studying** AI Engineering, LLMOps, Agentic Systems, and Applied Deep Learning.
+- **I’m looking to collaborate on** LLM/agent tooling, NFePHP, CodeIgniter, Magento Modules (Pagseguro, Mercado Pago, Paypal, Jadlog), and other Open-source projects.
 - **Pronouns**: He / Him / His
 - **How to reach me**: [Linktr.ee](https://linktr.ee/andreustimm)
 
@@ -23,12 +23,23 @@ In my free time, I teach Brazilian Jiu Jitsu (🥋), play video games (🎮), wa
 - **Technical Course** - _[São Luiz College, Computer Technician], 2004 - 2006_
 
 #### **Core Expertise:**
-- Backend & Platform Engineering • Cloud Architecture (AWS, GCP, and Azure) • Legacy System Modernization
+- AI Platform Engineering (LLMs, RAG, Multi-agent) • Backend & Platform Engineering • Cloud Architecture (AWS, GCP, and Azure) • Legacy System Modernization
 - CI/CD & DevOps Automation • High-scale SaaS Systems • Microservices & APIs • Full Stack Developer
 - Databases (SQL & NoSQL) • Real-time Systems • QA Automation • IT Mentor • Desktop Developer
 
+#### **Experience Highlights:**
+- 🤖 **[The Hackett Group](https://www.thehackettgroup.com/)** *(NASDAQ: HCKT)* — Senior AI Software Architect. Building AI platforms that generate business systems & dashboards from natural language using LLMs, multi-agent orchestration, and scalable data pipelines.
+- 🏪 **[Quilt Software / PosNation](https://www.quiltsoftware.com/)** — Senior Software Architect. Modernized a large legacy POS platform and shipped a new Electron desktop app with auto-update and silent printing.
+- 🏷️ **[MPC - Mobile Price Card](https://mpcsolutions.com/)** — Senior Software Engineer. Built an enterprise multi-tenant User Management System (Laravel 12 + Jetstream) and real-time promotions via Socket.IO for retail environments.
+- 🎰 **[SciPlay](https://www.sciplay.com/) / [Amber Studio](https://amberstudio.com/)** — Senior Backend Game Engineer. Built the Referral System for **Jackpot Party**, one of the largest US casino games.
+- 🌎 **[BairesDev](https://www.bairesdev.com/)** — Senior Software Engineer & IT Mentor. Mentored 10+ teams in PHP, Python, testing, Docker, and AWS across US client engagements:
+  - ☀️ **[ADT Solar](https://www.adt.com/) / Sunpro** — Mission-critical SaaS across US solar operations; technical reference for a team spanning 11 countries.
+  - 💳 **[Red Ventures](https://www.redventures.com/)** — High-traffic fintech & mortgage platforms (React, Vue, Laravel) with Terraform IaC on AWS.
+- 🏥 **[Consulta Já](https://consultaja.com/)** — CTO & Partner. Healthcare SaaS used by 30+ clinics, thousands of appointments/month, **R$1M+ VC funding**.
+- 🧾 **Mahout ERP Cloud** — Co-Founder, CEO & CTO. Full ERP SaaS (finance, POS, inventory, CRM, BI, e-commerce) on cloud-native infra.
+
 #### **Languages:**
-- English - Fluent (C1+)
+- English - Fluent (C2)
 - Spanish - Basic (A2-B1)
 - Portuguese - Native
 
@@ -46,6 +57,15 @@ In my free time, I teach Brazilian Jiu Jitsu (🥋), play video games (🎮), wa
   <img align="center" alt="React" title="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Vue" title="Vue" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
   <img align="center" alt="Angular" title="Angular" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
+  <img align="center" alt="Python" title="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="FastAPI" title="FastAPI" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg">
+  <img align="center" alt="Node.js" title="Node.js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="Next.js" title="Next.js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
+  <img align="center" alt="PyTorch" title="PyTorch" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg">
+  <img align="center" alt="TensorFlow" title="TensorFlow" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg">
+  <img align="center" alt="Golang" title="Golang" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg">
+  <img align="center" alt="Elixir" title="Elixir" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/elixir/elixir-original.svg">
+  <img align="center" alt="Rust" title="Rust" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg">
   <img align="center" alt="Docker" title="Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
   <img align="center" alt="Kubernetes" title="Kubernetes" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain-wordmark.svg">
   <img align="center" alt="MySQL" title="MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
